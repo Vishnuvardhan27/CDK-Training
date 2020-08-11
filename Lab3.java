@@ -33,10 +33,10 @@ class Emp
 public class Lab3 {
 
 	public static void main(String[] args) {
-		Emp[] e = new Emp[2];
+		Emp[] e = new Emp[5];
 		System.out.println("Please Enter 5 Employee Details :");
 		Scanner sc = new Scanner(System.in);
-		for(int i=0;i<2;i++)
+		for(int i=0;i<5;i++)
 		{
 			e[i] = new Emp();
 			e[i].setEmpno(sc.nextInt());

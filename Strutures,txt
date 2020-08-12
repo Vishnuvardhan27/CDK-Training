@@ -28,3 +28,10 @@
 	4) Queue : i) Ticket counter line where people who come first will get his ticket first.	
 	          ii) Serving requests on a single shared resource, like a printer, CPU task scheduling etc.
 	 
+
+Binary Tree
+   i) Hierarchical Access of Data
+   ii) Can be Static or Dynamic Based upon Implemention either by array or Linked List.
+   iii) We Have to traverse the Tree to insert and Delete the node From the tree
+   iv) Used where Large Amount of Searching operations Are done to ease the search.
+

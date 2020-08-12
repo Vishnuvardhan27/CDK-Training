@@ -1,0 +1,30 @@
+*Sequential Access / Random Access
+	1) Array : You can use the array index to access any element immediately. This is called random access.
+	2) Linked List : We have to start at the top of the list and then move from node to node until you get to the node you want, which is termed sequential access.
+	3) Stack : Use Sequentional Access Based upon FILO(First in last out) basis.
+	4) Queue : Use Sequential Access Based upon FIFO (First in First out) basis.
+	
+
+*Static Allocation/Dynamic Allocation
+	1)Array : Static 
+	2)Linked List : Dynamic 
+	3)Stack : Static if we use Array and Dynamic if we use Linked List.
+	4)Queue : Static if we use Array and Dynamic if we use Linked List.
+
+*Policy for getting/putting number
+	1)Array : Randomly insert or access data in any index of the Array and do changes accordingly.
+	2)Linked List : We have to Traverse Whole list to access some data right the head node.  
+	3)Stack : By Pushing or Poping the data we can access or delete the data in Stack.
+	4)Queue : By queing or Dequeing the list we can access or delete the data in queue.
+
+
+
+* Use Case
+	1)Array : Arrays are used to implement mathematical vectors and matrices, as well as other kinds of rectangular tables. Many databases, small and large, consist of one-dimensional arrays whose elements are records
+	2)Linked List :i) Implementation of stacks and queues.
+		       ii)Maintaining directory of names.
+	3)Stack : i)The simplest application of a stack is to reverse a word. You push a given word to stack - letter by letter - and then pop letters from the stack.
+		 ii)Calculators 
+	4) Queue : i) Ticket counter line where people who come first will get his ticket first.	
+	          ii) Serving requests on a single shared resource, like a printer, CPU task scheduling etc.
+	 

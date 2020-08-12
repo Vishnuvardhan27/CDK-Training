@@ -1,0 +1,14 @@
+1. AddLast
+  i) Traverse Whole list till we reach Last Node of The list where Last node Pointre is pointing to NULL.
+  ii) point the last node to the newly Created Node and make pointer of newly added node as NULL.
+  
+2.AddFirst 
+  i) Intially Store the address where the Head pointer is pointing in some temp variable ,
+  ii) Make head pointing toward newly Created node.
+  ii) Make newly created node point to the address where temperiory variable is storing
+  
+3) Add E After B
+  i) Traverse Till B
+  ii) Store the address where pointer of B is pointing in some temperiory variable 
+  ii) Change Where B's pointer is pointing and make it point at node E 
+  iv)And Final make E's pointer Point at the address where temperiory variable is storing 

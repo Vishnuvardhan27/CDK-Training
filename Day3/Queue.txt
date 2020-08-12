@@ -1,4 +1,4 @@
 Queue Algorithm Using Array 
-  i) For Adding element in array we have to increment the array with elements data .While adding we also have to check weather array is full or not by comparing rear counter with max size of array.
+  i) For Adding element in array we have to increment rear counter with +1 and insert element into array with elements data .While adding we also have to check weather array is full or not by comparing rear counter with max size of array.
   ii) For Deleting or Dequeing in the array we have to delete the first most element which was inserted in the array like vise .while delecting an Element we also have to check weather array is empty or not by compare fornt counter with '-1'.
   

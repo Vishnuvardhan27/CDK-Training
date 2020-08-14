@@ -1,0 +1,65 @@
+@CHARSET "ISO-8859-1";
+
+*{
+	box-sizing: border-box;
+	
+}
+div.tab{
+  padding: 50px;
+  margin-left: 450px;
+  margin-top: 175px;
+  
+}
+th {
+  text-align: left;
+}
+table {
+	 border-left: 6px solid red;
+	 background-color: #8d99ae;
+	 width: 45%;
+}
+
+ header {
+            border: 2px Light Gray;
+        }
+
+span.cname {
+            font-size: 100px;
+        }
+a
+{
+	color:#FF0000;
+}
+ section{
+    	float: left;
+    	width:30%;
+    	padding:20px;
+    	border-style: Solid;
+   		border-width: 3px;
+   		height:500px;    
+    }    
+article{
+	
+		 	float: left;
+		border-style: Solid;
+   		 border-width: 3px;
+   		 padding:20px;
+   		 width:70%;
+   		 height:500px;   
+   		 overflow-y: scroll;
+	}
+
+footer{
+	text-align:center;
+	border-style: Solid;
+   	border-width: 3px;
+   	
+}	
+body {
+ color: White ;
+ background-position: top;
+ background-color : #000;
+ background-attachment: scrool;
+ background-repeat: no-repeat;
+}
+
